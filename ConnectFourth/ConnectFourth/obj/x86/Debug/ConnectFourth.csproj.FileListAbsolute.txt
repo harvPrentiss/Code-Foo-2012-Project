@@ -1,0 +1,5 @@
+c:\users\harv\documents\visual studio 2010\Projects\ConnectFourth\ConnectFourth\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\harv\documents\visual studio 2010\Projects\ConnectFourth\ConnectFourth\bin\Debug\ConnectFourth.exe
+c:\users\harv\documents\visual studio 2010\Projects\ConnectFourth\ConnectFourth\bin\Debug\ConnectFourth.pdb
+c:\users\harv\documents\visual studio 2010\Projects\ConnectFourth\ConnectFourth\obj\x86\Debug\ConnectFourth.exe
+c:\users\harv\documents\visual studio 2010\Projects\ConnectFourth\ConnectFourth\obj\x86\Debug\ConnectFourth.pdb
