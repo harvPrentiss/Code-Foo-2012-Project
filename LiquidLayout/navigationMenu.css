@@ -1,0 +1,74 @@
+/* Navigation menu style
+ - horizontal
+ - drop down for more links
+*/
+#navigation
+{
+	margin: 10px 20px 10px 20px;
+}
+
+#navigation, #navigation ul
+{	
+	list-style: none;
+}
+		
+#navigation
+{ 
+	font-family: Arial;
+	font-size: 12px;
+	background: red;
+	float:left;
+}
+#navigation > li
+{
+	float: left;
+	width: auto;
+	border: 1px solid black;
+}
+
+#navigation > li > a
+{
+	color: #fff;
+	font-weight: bold;
+}
+
+#navigation > li:hover > a
+{
+	background: blue;
+}
+
+#navigation li a
+{
+	display: block;
+	height: 2em;
+	line-height: 2em;
+	padding: 0 1.5em;
+	text-decoration: none;
+}
+			
+#navigation ul
+{
+	position: absolute;
+	display: none;
+	z-index: 999;
+	background: red;
+	border: 2px solid black;
+}
+
+#navigation ul li a
+{
+	width: auto;
+	color: #fff;
+}
+
+#navigation li:hover ul
+{	
+	display: block;
+}
+
+#navigation ul li:hover a
+{
+	background: blue;
+	text-align: left;
+}
+

@@ -1,0 +1,67 @@
+body
+{
+	font: 12pt Verdana, Arial, Georgia, sans-serif;
+	background-color: black;
+	overflow-x: hidden;
+}
+
+p
+{
+	margin: 20px 10px 20px 10px;
+}
+
+h3
+{
+	text-align:center;
+	font-size: 14pt;
+}
+
+#header
+{
+	width: 100%;
+}
+
+#logo
+{
+	width: 100%;
+	margin: 5px 10px 5px 10px;
+}
+
+img.banner
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+
+#content
+{
+	width: 95%;
+	float: left;
+	margin: 10px 20px 10px 20px;
+	background-color: gray;
+}
+
+#content a
+{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#footer
+{
+	width: 95%;
+	background-color: red;
+	margin: 10px 20px 10px 20px;
+	clear: both;
+	border: red 5px ridge;
+	color: white;
+}

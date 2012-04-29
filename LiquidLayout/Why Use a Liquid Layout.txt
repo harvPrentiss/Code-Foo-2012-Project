@@ -1,0 +1,3 @@
+The reason to ue a liquid layout over a fixed layout is that it will scale on different platforms and
+resolutions so the user will not have to use the horizontal scroll bar. It keeps everything in place
+and make the web page more user friendly.
